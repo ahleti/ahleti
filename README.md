@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ahleti
+- 👀 I’m interested in programming backend and frontend solutions
+- 🌱 I’m currently focused learning Java and Javascript
+- 📫 How to reach me: leticiacteixeira@outlook.com
